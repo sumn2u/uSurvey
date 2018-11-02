@@ -2,7 +2,7 @@
 
 Many tutorials cover basics of React and Redux, but they aren't helpful in handling a real world project such as survey or questionnaire. React Survey project shows how to build a more complex web application with React and Redux. 
 
-See live demo [here](https://aisensiy.github.io/react-survey)
+See live demo [here](https://sumn2u.github.io/uSurvey)
 
 ## Features
 
